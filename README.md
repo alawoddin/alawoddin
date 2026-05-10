@@ -43,23 +43,63 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <h3 align="center">Connect with me:</h3>
 
-<p align="center">
-  <a href="https://github.com/alawoddin" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  </a>
+this is create for my github profile when i pin this that is not show in my project https://github.com/alawoddin/Profile
+if i change this name what is your idea
+Pasted text(4).txt
+Document
+check all this code i want to add this in one line i mean icon 
 
-  <a href="https://www.linkedin.com/in/info-khedmat-a58b58343/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40" height="40"/>
-  </a>
+You can paste it directly into your README.md.  yes give full code 
+this two is not work why <p align="center">
 
-  <a href="https://www.instagram.com/hajialawoddin/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" height="40"/>
-  </a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alawoddin&"
+alt="github streak"/>
 
-  <a href="https://www.facebook.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" width="40" height="40"/>
-  </a>
 </p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alawoddin&show_icons=true&locale=en&layout=compact"
+alt="top languages"/>
+
+</p>
+that is not work <p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=alawoddin&show_icons=true&locale=en"
+alt="github stats"/>
+
+</p>
+check this i want to this in one line all of this i mean side 
+---
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+
+<a href="https://github.com/alawoddin" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+alt="github" width="40" height="40"/>
+</a>
+
+<a href="https://www.linkedin.com/in/info-khedmat-a58b58343/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+alt="linkedin" width="40" height="40"/>
+</a>
+
+<a href="https://www.instagram.com/hajialawoddin/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+alt="instagram" width="40" height="40"/>
+</a>
+
+<a href="https://www.facebook.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+alt="facebook" width="40" height="40"/>
+</a>
+
+</p>
+
+---
+i mean like this GitHub | LinkedIn | Instagram | Facebook → all in one line.
 
 ---
 
