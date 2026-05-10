@@ -105,12 +105,7 @@ alt="facebook" width="40" height="40"/>
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alawoddin&show_icons=true&locale=en"
-alt="github stats"/>
-
-</p>
 
 <p align="center">
 
@@ -120,8 +115,6 @@ alt="github streak"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alawoddin&show_icons=true&locale=en&layout=compact"
-alt="top languages"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alawoddin&layout=compact&theme=dark" 
+  alt="Top Languages" />
 </p>
