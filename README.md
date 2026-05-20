@@ -90,7 +90,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=alawoddin&theme=toky
 <p align="center">
 
 <img width="40%"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=alawoddin&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+src="https://www.facebook.com/Alawoddin.khadmat.967/photos/d41d8cd9/4348105748848997/"/>
 
 </p>
 
@@ -99,7 +99,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=alawoddin&sho
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=alawoddin&theme=tokyonight&row=1&column=6" />
+<img src="https://github.com/alawoddin" />
 </p>
 
 ---
@@ -107,7 +107,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=alawoddin&sho
 ## 📈 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=alawoddin&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://github.com/alawoddin" />
 </p>
 
 ---
